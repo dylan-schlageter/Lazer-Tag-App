@@ -2,7 +2,7 @@
 <h1>Lazer Tag Application</h1>
 
 <h2>Description</h2>
-A fully functional Lazer Tag software system. The project consists of a player entry screen, a countdown screen, and finally the live scoreboard screen. Manages data with PostgreSQL and Python for the front end.
+Led a group of 5 to build a fully functional Lazer Tag software system. The project consists of a player entry screen, a countdown screen, and finally the live scoreboard screen. Manages data with PostgreSQL and Python for the front end.
 
 <br/>
 
